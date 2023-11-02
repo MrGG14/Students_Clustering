@@ -1,4 +1,8 @@
-# Clustering_ML
+# Students Clustering
+
+## Objective
+
+The aim of this project is to make a clustering analysis based on the grades from 86 students. This way we will be able to detect and study different student profiles.
 
 ## The data
 We have the grades from 86 students in 6 different subjects.
